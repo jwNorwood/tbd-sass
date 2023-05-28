@@ -1,6 +1,6 @@
 <script>
-    export let onClick;
-    export let href;
+    export let onClick = () => {};
+    export let href = null;
     export let className = "";
 </script>
 

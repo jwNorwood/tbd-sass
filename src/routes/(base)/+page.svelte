@@ -1,5 +1,5 @@
 <script lang="ts">
-    import Button from "./../Components/Button.svelte"
+    import Button from "./../../Components/Button.svelte"
 </script>
 
 Sass thing goes here
@@ -13,5 +13,5 @@ Sass thing goes here
     <!-- link to dashboard -->
     <!-- tailwind button -->
 <Button href="/dashboard">
-    Dashboard?
+    Dashboard
 </Button>

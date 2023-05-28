@@ -1,6 +1,8 @@
 <script lang="ts">
+	import Nav from "../../Components/Nav.svelte";
+
 </script>
 
 <header>
-	<h1>Home</h1>
+	<Nav />
 </header>
